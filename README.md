@@ -7,7 +7,7 @@ We startup several NTF collections on [opensea](https://opensea.io/wwfem) hoping
 ![banner Bandageman1w](https://github.com/wwfem/official_wwfem/blob/main/logo/Banner.png)
 
 ## 2. VacuumBear
-The VacuumBear is a collection of 20,000 unique NFTs, which comes from that we began to wear surgical masks all over the world. Masks make a big distance between everyone from year 2020. Maybe in future, the environment of Earth will become better anf better. At that time, we dno't need to live in the vacuums, like a VacuumBear. 
+[VacuumBear](https://opensea.io/collection/vacuumbear) is a collection of 20,000 unique NFTs, which comes from that we began to wear surgical masks all over the world. Masks make a big distance between everyone from year 2020. Maybe in future, the environment of Earth will become better anf better. At that time, we dno't need to live in the vacuums, like a VacuumBear. 
 
 ![banner BannerVacuumBear](https://github.com/wwfem/official_wwfem/blob/main/logo/BearBanner.png)
 
