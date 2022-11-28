@@ -1,4 +1,4 @@
-# Welcome to Offical Homepage of WWFEM
+# Welcome to Official Homepage of WWFEM
 We startup several NTF collections as follows on https://opensea.io/wwfem, hoping to bring you health, wealth and happiness.
  
 ## 1. Bandageman1w
