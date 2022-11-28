@@ -18,10 +18,12 @@ https://opensea.io/collection/bandageman1w
 
 https://opensea.io/collection/vacuumbear
 
-https://github.com/wwfem/official_wwfem
+https://opensea.io/wwfem
+
+https://t.me/wwfem
 
 https://www.instagram.com/official_wwfem
 
 https://twitter.com/official_wwfem
 
-
+https://medium.com/@official_wwfem
