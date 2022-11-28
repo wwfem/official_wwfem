@@ -14,6 +14,10 @@ We startup several NTF collections on [opensea](https://opensea.io/wwfem) hoping
 
 Relative links as follows:
 
+https://opensea.io/collection/bandageman1w
+
+https://opensea.io/collection/vacuumbear
+
 https://github.com/wwfem/official_wwfem
 
 https://www.instagram.com/official_wwfem
