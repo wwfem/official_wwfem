@@ -1,8 +1,8 @@
 # Welcome to Official Homepage of WWFEM
 We startup several NTF collections on [opensea](https://opensea.io/wwfem) hoping to bring you health, wealth and happiness as follows.
  
-## 1. Bandageman1w
-[Bandageman1w](https://opensea.io/collection/bandageman1w) is a collection of 10,000 unique Bandage Man NFTs, which comes from the idea that we always bond ourselves to hard problems, hope to be free and fear to be forward. We hope these NFTs can help us to find the right way and seek the inner-heart peace.
+## 1. BandagemanNFT
+[Bandageman1w](https://opensea.io/collection/bandagemannft) is a collection of 10,000 unique Bandage Man NFTs, which comes from the idea that we always bond ourselves to hard problems, hope to be free and fear to be forward. We hope these NFTs can help us to find the right way and seek the inner-heart peace.
 
 ![banner Bandageman1w](https://github.com/wwfem/official_wwfem/blob/main/logo/Banner.png)
 
