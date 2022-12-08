@@ -24,12 +24,11 @@ https://opensea.io/collection/vacuumbear
 
 https://opensea.io/collection/santa-claus-on-the-way
 
-https://opensea.io/wwfem
-
-https://t.me/wwfem
-
-https://www.instagram.com/official_wwfem
+https://t.me/official_wwfem
 
 https://twitter.com/official_wwfem
 
 https://medium.com/@official_wwfem
+
+https://www.instagram.com/official_wwfem
+
