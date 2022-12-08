@@ -11,6 +11,10 @@ We startup several NTF collections on [opensea](https://opensea.io/wwfem) hoping
 
 ![banner BannerVacuumBear](https://github.com/wwfem/official_wwfem/blob/main/logo/BearBanner.png)
 
+## 3. SantaClaus
+[SantaClaus](https://opensea.io/collection/santa-claus-on-the-way) is a collection of 5,000 unique NFTs. MERRY CHRISTMAS~A bunch of bearded Santas are on their way, are you ready!
+
+![BannerSantaClaus.png](https://github.com/wwfem/official_wwfem/blob/main/logo/BannerSantaClaus.png)
 
 Relative links as follows:
 
