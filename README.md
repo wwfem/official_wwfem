@@ -23,19 +23,19 @@ We startup NTF collections on [opensea](https://opensea.io/wwfem) to bring you h
 
 Relative links as follows:
 
-https://opensea.io/collection/bandagemannft
+[https://opensea.io/collection/bandagemannft](https://opensea.io/collection/bandagemannft)
 
-https://opensea.io/collection/vacuumbear
+[https://opensea.io/collection/vacuumbear](https://opensea.io/collection/vacuumbear)
 
-https://opensea.io/collection/santa-claus-on-the-way
+[https://opensea.io/collection/santa-claus-on-the-way](https://opensea.io/collection/santa-claus-on-the-way)
 
-https://opensea.io/collection/christmasdeer
+[https://opensea.io/collection/christmasdeer](https://opensea.io/collection/christmasdeer)
 
-https://t.me/official_wwfem
+[https://t.me/NFT_sharing_opensea](https://t.me/NFT_sharing_opensea)
 
-https://twitter.com/official_wwfem
+[https://twitter.com/official_wwfem](https://twitter.com/official_wwfem)
 
-https://medium.com/@official_wwfem
+[https://medium.com/@official_wwfem](https://medium.com/@official_wwfem)
 
-https://www.instagram.com/official_wwfem
+[https://www.instagram.com/official_wwfem](https://www.instagram.com/official_wwfem)
 
